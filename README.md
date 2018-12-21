@@ -35,7 +35,7 @@ Before trying to solve a data related problem, it is important that a data scien
 
 ### Data Mining
 
-After agreeing the analytical question(s), identifying the objective for your analysis, the next stage of analysis is to identify and gather the required data. 
+After agreeing on the analytical question(s), identifying the objective for your analysis, the next stage of analysis is to identify and gather the required data. 
 
 Data mining is a process of identifying and collecting data of interest from different sources - databases, text files, APIs, the Internet and even printed documents. Some of the questions that you may ask yourself at this stage are:
 
@@ -43,16 +43,16 @@ Data mining is a process of identifying and collecting data of interest from dif
 * Where can I find this data ?
 * How can I obtain the data from data source ?
 * How do I sample from this data ?
-* Are their any privacy/ legal issues that I must consider prior to data usage ?
+* Are there any privacy/ legal issues that I must consider prior to data usage ?
 
 <img src='data-collection.png'>
 
 ### Data Cleaning
 
-Data cleaning and wrangling is usually the most time consuming stage within the data science process. This stage may take up to 50-80% of a data scientist's time as there are a vast number of possible problems that make the data "dirty" and unsuitable for analysis. Some of the problems you may see in data are follows:
+Data cleaning and wrangling is usually the most time consuming stage within the data science process. This stage may take up to 50-80% of a data scientist's time as there are a vast number of possible problems that make the data "dirty" and unsuitable for analysis. Some of the problems you may see in data are as follows:
 
 * Inconsistencies in data
-* Mis-spelled text data
+* Misspelled text data
 * Outliers
 * Imbalanced data
 * Invalid/outdated data
@@ -64,7 +64,7 @@ The data cleaning stage requires the development of a strategy on how to deal wi
 
 ### Data Exploration
 
-Data exploration or Exploratory Data Analysis is the stage that follows data cleaning. Exploratory analysis help highlight the patterns, relations, variance and bias of available data. Exploratory analysis may involve following activities:
+Data exploration or Exploratory Data Analysis is the stage that follows data cleaning. Exploratory analysis helps highlight the patterns, relations, variance and bias of available data. Exploratory analysis may involve following activities:
 
 * Selecting a subset of a bigger dataset for exploration
 * Calculating basic descriptive statistics such as the mean, the median and the mode
@@ -92,7 +92,7 @@ Choosing the "right" model is often a challenging decision as there is never a s
 
 After deriving the required results from a statistical model, visualisations are normally used to summarise and present the findings of the analysis process in a form which is easily understandable by non-technical decision makers. 
 
-Data visualisation could be thought of as an evolution of visual communication techniques as it deals with the visual representation of data. There are a wide range of different data visualisation techniques, from bar graphs, line graphs and scatter plots to alluvial diagrams and spatio-temporal visualisations, each of which will work better for presenting certain types of information.
+Data visualisation could be thought of as an evolution of visual communication techniques as it deals with the visual representation of data. There are a wide range of different data visualisation techniques, from bar graphs, line graphs, and scatter plots to alluvial diagrams and spatio-temporal visualisations, each of which will work better for presenting certain types of information.
 
 <img src='viz.png'>
 
